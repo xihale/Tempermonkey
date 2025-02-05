@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         httpImgs-upgrade
+// @name         coolapk-httpimgs-upgrade
 // @namespace    xihale
 // @license      MIT
 // @version      0.0.2
